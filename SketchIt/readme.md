@@ -1,20 +1,10 @@
-<b>Assignment 3</b>
-
-<b>Name:</b> Shruti Vishrant
-
-<b>Username:</b> svishran
-
-<b>Student Number:</b> 20763176
+# Sketch App
 
 <b>OpenJDK version:</b> "11.0.8" 2020-07-14
 
 <b>Gradle version:</b> "6.6.1"
 
-<b>Git version:</b> "2.27.0"
-
-<b>System:</b> macOS 10.13.6 (MacBook Air 2017)
-
-<b>SketchIt:</b>
+<b>Sketch App:</b>
 
 - The tool pallete consists of select tool, circle draw tool, rectangle draw tool, line draw tool, fill shape tool and eraser tool, in this order. When no shape is on the canvas, the select tool, the eraser tool and the fill shape tool are disabled.
 
@@ -56,24 +46,3 @@ The shape which is selected by a select tool will have a black shadow on it to d
 - Maximum Window Size: 1440x830
 
 The properties pallete will require resizing and will resize as you resize the window.
-
-<b>Samples Codes of the CS349 that I took help from: </b>
-
-- hit_test_circle
-- save_load
-- colorpicker
-- hellomvc3
-- border_layout
-- layouts
-
-<b>Image Sources:</b>
-
-- Dashed Line Style Image: Line Dotted by Hea Poh Lin from the Noun Project(Ceative Commons)
-- Dotted Line Style Image: dotted line by Rflor from the Noun Project(Creative Commons)
-- Solid Line Style Image: diagonal line by iconeu from the Noun Project(Creative Commons)
-- Pink Line Draw Tool: Icon from icons8(Creative Commons)
-- Thick Line and Medium Line Icon: Icon from icons8(Creative Commons)
-- Eraser Tool: Free Pikk(License: Free for personal use only)
-- Shape fill Tool: IconFinder(License: Free for Personal use only)
-- Select Tool: kissclipart(License: Free for Persona Use Only)
-- Circle and Rectangle Draw Tool: IconsDB(Creative Commons)
