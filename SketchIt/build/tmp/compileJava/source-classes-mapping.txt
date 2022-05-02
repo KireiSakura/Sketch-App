@@ -1,0 +1,24 @@
+sketch/it/IView.java
+ sketch.it.IView
+sketch/it/About.java
+ sketch.it.About
+sketch/it/SketchIt.java
+ sketch.it.SketchIt
+sketch/it/AskSave.java
+ sketch.it.AskSave
+sketch/it/PropertiesView.java
+ sketch.it.PropertiesView
+sketch/it/CanvasView.java
+ sketch.it.CanvasView
+ sketch.it.CanvasView$1
+sketch/it/Model.java
+ sketch.it.Model
+ sketch.it.Model$1
+ sketch.it.Model$2
+ sketch.it.Model$3
+ sketch.it.Model$Delta
+ sketch.it.Model$SaveDialog
+sketch/it/ToolbarView.java
+ sketch.it.ToolbarView
+sketch/it/ToolView.java
+ sketch.it.ToolView
